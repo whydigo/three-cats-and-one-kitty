@@ -1,0 +1,15 @@
+{
+  "name": "we_are_need_some_cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cat-me": "^1.0.3"
+  }
+}
